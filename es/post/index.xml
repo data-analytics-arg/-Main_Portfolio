@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Data Analytics Arg</title>
+    <link>https://data-analytics-arg.github.io/Main_Portfolio/es/post/</link>
+    <description>Recent content in Proyectos on Data Analytics Arg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Oct 2021 10:58:14 -5500</lastBuildDate><atom:link href="https://data-analytics-arg.github.io/Main_Portfolio/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 1: Scraping Slogans</title>
+      <link>https://data-analytics-arg.github.io/Main_Portfolio/es/post/project_1/</link>
+      <pubDate>Fri, 15 Oct 2021 10:58:14 -5500</pubDate>
+      
+      <guid>https://data-analytics-arg.github.io/Main_Portfolio/es/post/project_1/</guid>
+      <description>Herramienta creada para extraer ideas referidas a slogans de proyectos,empresas, consultoras, relacionadas a la Analítica de Datos. Se scrapearon alrededor de 300 frases provenientes de diferentes sitios utilizando Python NLP Básico aplicado. Se utilizó Word Cloud para visualizar los resultados   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 2: Scrapeando notas de un Diario</title>
+      <link>https://data-analytics-arg.github.io/Main_Portfolio/es/post/project_2/</link>
+      <pubDate>Wed, 20 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://data-analytics-arg.github.io/Main_Portfolio/es/post/project_2/</guid>
+      <description>Herramienta creada para extraer contenido de notas de undiario utilizando Python. Datos exportados a Base de datos en PostgreSQL. Automatización del proceso utilizando Airflow.   Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
